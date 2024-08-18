@@ -4,7 +4,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: GlobalTechInfo" //ur yt chanel name
+global.ytname = "WP: https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻" //ur yt chanel name
 global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
 global.location = "Pakistan, Sialkot, Lahore" //ur location
 
@@ -12,8 +12,8 @@ global.location = "Pakistan, Sialkot, Lahore" //ur location
 global.botname = 'ᴄʜᴜɢɪyᴀɴ-ᴍᴅ' //ur bot name
 global.ownernumber = ['919778535328'] //ur owner number, dont add more than one
 global.ownername = 'ᴄʜᴜɢɪyᴀɴ' //ur owner name
-global.websitex = "https://youtube.com/GlobalTechInfo"
-global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
+global.websitex = "https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻"
+global.wagc = "https://wa.me/+919778535328?text=𝐇𝐄𝐘💗🫴🏻"
 global.themeemoji = '🪀'
 global.wm = "Global Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD15' //script link
